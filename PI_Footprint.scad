@@ -4,8 +4,8 @@ $fs = 0.4;
 PIW=85;
 PIH=56;
 
-PLATE_DEPTH = 1.5; 
-SCREW_HOLE=2.9/2;
+PLATE_DEPTH = 2.5; 
+SCREW_HOLE=2.75/2;
 SCREW_HEIGHT=8;
 
 difference(){
